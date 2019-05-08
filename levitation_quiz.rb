@@ -1,5 +1,6 @@
 
 def levitation_quiz
+  puts 
 	ans = gets 
 	while ans != "Wingardium Leviosa"
 	  ans = gets
