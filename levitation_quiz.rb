@@ -1,6 +1,7 @@
 
 def levitation_quiz
-	gets 
+	ans = gets 
+	while ans != 
 end
 
 
