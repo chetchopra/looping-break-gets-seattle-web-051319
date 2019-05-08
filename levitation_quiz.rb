@@ -4,6 +4,7 @@ def levitation_quiz
 	while ans != "Wingardium Leviosa"
 	  ans = gets
 	end 
+	puts 
 end 
 
 
